@@ -1,0 +1,10 @@
+.block {
+  margin: 320px auto 375px auto;
+  width: min-content;
+}
+
+@media screen and (max-width: 1000px){
+  .block {
+    margin: 100px auto 150px auto;
+  }
+}
